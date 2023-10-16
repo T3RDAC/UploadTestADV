@@ -1,0 +1,11 @@
+.iconWrapper {
+    width: 1em;
+    height: 1em;
+    position: relative;
+  }
+  
+  .iconWrapper img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }

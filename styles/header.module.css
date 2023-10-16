@@ -1,0 +1,27 @@
+.headertop{
+    display: grid;
+    align-items: center;
+    
+    background-color:rgb(26, 27, 30);
+    font-family: orbitron, sans-serif;
+    color:lime;
+    width:100%;
+    min-height: 10vh;
+    height: 10%;
+  }
+  .headerlineup{
+  background-color:lightblue;
+  height: 0.1vh;
+  
+  }
+  .headerlinedown{
+    background-color:lightblue;
+    height: 0.1vh;
+    
+  }
+  .headerlogo{
+    float: left;
+  }
+  .headermenu{
+    float:right;
+  }
