@@ -10,7 +10,7 @@ const Potencias = () => {
     return (
 
         <span>
-            <h1>Calculo y conversion de Potencias</h1>
+            <h1>Calculo y conversion de Potencias - v0.02</h1>
             
             <h2>Lineal  {"<=>"}  Logaritmico</h2>
             <FormConvert
